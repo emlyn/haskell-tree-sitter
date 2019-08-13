@@ -31,3 +31,6 @@
 [submodule "languages/tsx/vendor/tree-sitter-typescript"]
 	path = tree-sitter-tsx/vendor/tree-sitter-typescript
 	url = https://github.com/tree-sitter/tree-sitter-typescript
+[submodule "vendor/tree-sitter-clojure"]
+	path = tree-sitter-clojure/vendor/tree-sitter-clojure
+	url = git@github.com:oakmac/tree-sitter-clojure.git
